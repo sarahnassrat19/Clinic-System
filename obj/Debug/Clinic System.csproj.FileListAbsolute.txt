@@ -1,0 +1,18 @@
+E:\talta1\software engineering\project\Clinic System\bin\Debug\Clinic System.exe.config
+E:\talta1\software engineering\project\Clinic System\bin\Debug\Clinic System.exe
+E:\talta1\software engineering\project\Clinic System\bin\Debug\Clinic System.pdb
+E:\talta1\software engineering\project\Clinic System\obj\Debug\Clinic System.csprojResolveAssemblyReference.cache
+E:\talta1\software engineering\project\Clinic System\obj\Debug\Clinic_System.Form1.resources
+E:\talta1\software engineering\project\Clinic System\obj\Debug\Clinic_System.Properties.Resources.resources
+E:\talta1\software engineering\project\Clinic System\obj\Debug\Clinic System.csproj.GenerateResource.Cache
+E:\talta1\software engineering\project\Clinic System\obj\Debug\Clinic System.exe
+E:\talta1\software engineering\project\Clinic System\obj\Debug\Clinic System.pdb
+E:\talta1\software engineering\project\Clinic System\obj\Debug\Clinic_System.Reciptionist_Form.resources
+E:\talta1\software engineering\project\Clinic System\obj\Debug\Clinic_System.Doctor.resources
+E:\talta1\software engineering\project\Clinic System\obj\Debug\Clinic_System.check.resources
+E:\talta1\software engineering\project\Clinic System\obj\Debug\Clinic_System.recheck.resources
+E:\talta1\software engineering\project\Clinic System\obj\Debug\Clinic_System.history.resources
+E:\talta1\software engineering\project\Clinic System\obj\Debug\Clinic_System.history1.resources
+E:\talta1\software engineering\project\Clinic System\obj\Debug\Clinic_System.postinfo.resources
+E:\talta1\software engineering\project\Clinic System\obj\Debug\Clinic_System.report.resources
+E:\talta1\software engineering\project\Clinic System\obj\Debug\Clinic_System.report1.resources
